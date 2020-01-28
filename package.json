@@ -4,8 +4,8 @@
   "description": "- [x] hellogit\r - [x] learnyounode\r - [] javascripting",
   "main": "index.js",
   "scripts": {
-    "start-javascripting" : "learnyounode",
-    "verify-javascripting" : "learnyounode verify http-upercaserer.js",
+    "start-javascripting" : "javascripting",
+    "verify-javascripting" : "javascripting verify http-upercaserer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
