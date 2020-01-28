@@ -1,0 +1,14 @@
+{
+  "name": "webdev2",
+  "version": "1.0.0",
+  "description": "- [x] hellogit\r - [x] learnyounode\r - [] javascripting",
+  "main": "index.js",
+  "scripts": {
+    "start-javascripting" : "learnyounode",
+    "verify-javascripting" : "learnyounode verify http-upercaserer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
